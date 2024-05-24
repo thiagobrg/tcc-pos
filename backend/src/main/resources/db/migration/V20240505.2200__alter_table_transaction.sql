@@ -1,0 +1,1 @@
+ALTER TABLE transaction ALTER COLUMN trca_cd_id DROP NOT NULL;
